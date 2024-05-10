@@ -1,0 +1,1 @@
+Uma pasta onde aprendi sobre Javascript, fiz testes e deixei guardado os arquivos para futuras conferencias e atualizações da linguagem. Um parque de diversões para usufruir da linguagem completa e testar o que for necessário.
