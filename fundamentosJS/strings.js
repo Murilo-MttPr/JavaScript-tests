@@ -23,3 +23,8 @@ console.log(`1+1=${1+1}`);//Outro jeito de concatenar dentro da string
 
 const up = texto => texto.toUpperCase(); //Uma função para deixar as letras maiusculas
 console.log(`Ei... ${up('cuidado')}!`) // Se for chamar uma função, utilizar a craze ` 
+///
+
+let nome = "João";
+let saudacao = `Olá, ${nome}! Como você está?`; //Maneira de combinar strings literais.
+console.log(saudacao); // "Olá, João! Como você está?"

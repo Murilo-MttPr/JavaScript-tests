@@ -8,14 +8,3 @@ function exec(){
 console.log(saudacao)
 console.log(exec());
 
-const cliente = {
-    nome: 'Murilo',
-    idade: 25,
-    peso: 83,
-    endereco: {
-        logradouro: 'Rua Kenia',
-        numero: 29
-    }
-}
-
-console.log(cliente)

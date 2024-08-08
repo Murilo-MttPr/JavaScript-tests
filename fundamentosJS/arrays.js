@@ -34,3 +34,10 @@ let novoArray= numeros.map((dobro)=> {return dobro*2})
 //utilo pra gravar dados em um , deixar ele quieto e modificar os dados em outra variavel contendo esse array
 console.log(novoArray)
 
+//Consigo definir varias constantes usando array. Siga o exemplo:
+
+const [item1, item2, item3] = ['camisa', 'calça', 'tenis'];
+console.log(item1)// camisa
+console.log(item2)// calça
+console.log(item3)// tenis
+
